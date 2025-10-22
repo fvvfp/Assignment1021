@@ -9,6 +9,7 @@ public class Main {
         
         System.out.println("Your name is " + name + "!!!");
         
+        System.out.println("Changed by Griffin");
         scanner.close();
     }
 }
